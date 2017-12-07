@@ -1,0 +1,84 @@
+{
+  "reasons_why": [{
+      "title": "Save up to 65%",
+      "text": "We will find you the cheapest aiport transfer prices with our verified partners!"
+    }, {
+      "title": "Over 250.000 happy customers",
+      "text": "We helped 400.000 people to get to or from the airport in time in the last 9 years"
+    }, {
+      "title": "Book and pay online",
+      "text": "Prepay 15% or 100% of the fare online. No more hassle! We accept PayPal, Creditcards and all other mayor options."
+    }
+  ],
+  "form_step2_options": [{
+    "info": {
+      "title": "Extra stops",
+      "icon": "stops",
+      "text": "Do we need to make extra stops to pick up passengers? Additional fee: &euro;5 per stop"
+    },
+    "field": {
+      "type": "select",
+      "name": "extra_stops",
+      "choices": [0,1,2,3,4,5,6,7,9,10]
+    },
+    "fee_unit": 5
+  }, {
+    "info": {
+      "title": "Baby Seats",
+      "icon": "baby",
+      "text": "Is there a need for Baby seats? Additional fee: &euro;4 per baby seat."
+    },
+    "field": {
+      "type": "select",
+      "name": "baby_seats",
+      "choices": [0,1,2,3]
+    },
+    "fee_unit": 4
+  }, {
+    "info": {
+      "title": "Booster Seats",
+      "icon": "booster",
+      "text": "Is there a need for Booster seats? Additional fee: &euro;4 per booster seat"
+    },
+    "field": {
+      "type": "select",
+      "name": "booster_seats",
+      "choices": [0,1,2]
+    },
+    "fee_unit": 4
+  }, {
+    "info": {
+      "title": "Meet & Greet",
+      "icon": "pickup",
+      "text": "Additional fee: &euro;9.00"
+    },
+    "field": {
+      "type": "checkbox",
+      "name": "meet_great"
+    },
+    "fee_unit": 9
+  }, {
+    "info": {
+      "title": "Special Luggage",
+      "icon": "luggage",
+      "text": "Additional fee: &euro;8.00"
+    },
+    "field": {
+      "type": "checkbox",
+      "name": "special_luggage"
+    },
+    "fee_unit": 8
+  }, {
+    "info": {
+      "title": "Pets",
+      "icon": "pets",
+      "text": "Additional fee: &euro;4.50"
+    },
+    "field": {
+      "type": "checkbox",
+      "name": "pets"
+    },
+    "fee_unit": 4.50
+  }],
+  "airport_text": "<p>When it comes to business trips or tours to Prague, all required services are available now online. The only thing to do is to reserve transfer from Prague airport through our international system of taxi lookup and reservation. Highly qualified English-speaking taxi drivers will help you to look about in the strange environment in a polite and kind manner; they will take you to any point of destination avoiding rash to enjoy sightseeing and to be in time for important negotiations or meetings.</p><p>If you intend to get to the place of residence on arrival, it is worth reserving a taxi in Prague airport. It is very easy to place an order: you only need to complete a form at the website specifying your travel areas, number of passengers and your contact information. Our managers will contact clients prior to the travel and inform on the driver data who is assigned to meet them. In case if the group includes younger children this should be specially indicated in the order form with the purpose to have a child seat in the car available</p><p>The special form available at the website page is useful for clients to find out the price for a taxi in Prague pointing departure and arrival places. This procedure is simple and appropriate since it make possible to arrange travelling expenditure in good time.</p><p>Clients might want to order a transfer in Prague from the Prague Airport to any place in the city and beyond it. When leaving Czech Republic, our taxi will take you to the airport from any region. Clients may enjoy all comfortable vehicles offered for any budget: from economy-class vehicles for a single person or a small family to mini-buses to accommodate groups of up to 13 tourists. The most demanded routes from the airport include the way to Podebrady, Marianske Lazne, Cesky Krumlov and other Czech destinations, various round trips to enjoy sights of the city and country. As it is practiced elsewhere, a taxi driver meets clients at hotels, airports and other places of destination with their names put in the poster</p>"
+}

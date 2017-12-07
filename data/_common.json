@@ -1,0 +1,28 @@
+{
+  "languages": [{
+      "code": "gb",
+      "name": "English"
+    }, {
+      "code": "nl",
+      "name": "Dutch"
+    }, {
+      "code": "de",
+      "name": "German"
+    }, {
+      "code": "fr",
+      "name": "French"
+    }, {
+      "code": "es",
+      "name": "Spanish"
+    }, {
+      "code": "it",
+      "name": "Italian"
+    }, {
+      "code": "be",
+      "name": "Belgium"
+    }, {
+      "code": "pt",
+      "name": "Português"
+    }
+  ]
+}
